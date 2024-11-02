@@ -305,3 +305,17 @@ letter-spacing: 0%;
 text-align: center;
 border-radius: 8px;
   }
+
+#footer{
+    background-color: rgba(13, 19, 33, 0.03);
+    
+}
+  .footer-part{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 90px;
+    align-items: center;
+
+    
+  }
