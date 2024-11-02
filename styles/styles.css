@@ -86,6 +86,12 @@ letter-spacing: 0%;
 text-align: center;
 }
 
+#devmodifications{
+    border-radius: 16px;
+background: rgba(13, 19, 33, 0.02);
+padding: 150px;
+
+}
 .devlopment-p{
 
     color: rgb(13, 19, 33);
